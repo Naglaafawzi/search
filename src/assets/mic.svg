@@ -1,0 +1,13 @@
+<svg width="41" height="40" viewBox="0 0 41 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="microphone" clip-path="url(#clip0_1_6779)">
+<path id="Vector" d="M24.8856 8.33332C24.8856 6.03214 23.0201 4.16666 20.7189 4.16666C18.4177 4.16666 16.5522 6.03214 16.5522 8.33332V17.5C16.5522 19.8012 18.4177 21.6667 20.7189 21.6667C23.0201 21.6667 24.8856 19.8012 24.8856 17.5V8.33332Z" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M12.3857 17.5C12.3923 19.7081 13.2724 21.8239 14.8338 23.3853C16.3952 24.9466 18.511 25.8267 20.7191 25.8333V25.8333C22.9272 25.8267 25.043 24.9466 26.6043 23.3853C28.1657 21.8239 29.0458 19.7081 29.0524 17.5" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_3" d="M14.8857 35.8333H26.5524" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_4" d="M20.719 25.8333V35.8333" stroke="#333333" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_1_6779">
+<rect width="40" height="40" fill="white" transform="translate(0.718994)"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<div class="vf-search-engine">
+  <input
+    type="search"
+    autocomplete="off"
+    [placeholder]="isListening ? '' : 'Search...'"
+    [readonly]="isListening"
+    [(ngModel)]="searchKeywords"
+  />
+
+  <div class="loader-container" *ngIf="isListening">
+    <canvas #waveformCanvas class="waveform-canvas"></canvas>
+  </div>
+
+  <div class="mic-wrapper" (click)="toggleSpeechRecognition()">
+    <img
+      src="assets/mic.svg"
+      width="40"
+      height="40"
+      alt="mic icon"
+      [class.listening]="isListening"
+    />
+  </div>
+</div>
